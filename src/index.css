@@ -1,0 +1,63 @@
+@import url("https://use.typekit.net/xei7itb.css");
+@import "tailwindcss";
+@theme {
+    /* Primary */
+    --color-Primary-50: #00E676;
+    --color-PShades-50: #06BE64;
+    --color-PShades-100: #0C9653;
+    --color-PShades-150: #126E41;
+    --color-PShades-200: #1B3227;
+    --color-PShades-250: #000C06;
+
+    --color-PTints-50: #FAFEFC;
+    --color-PTints-100: #F7FEFB;
+    --color-PTints-150: #E6FCF1;
+    --color-PTints-200: #CCFAE4;
+    --color-PTints-250: #B3F8D6;
+    --color-PTints-300: #99F5C8;
+    --color-PTints-350: #66F0AD;
+    --color-PTints-400: #33EB91;
+    /* Secondary */
+    --color-Secondary-600: #7E3FF2;
+    --color-SShades-700: #6532C1;
+    --color-SShades-700: #4C2691;
+    --color-SShades-700: #321961;
+    --color-SShades-700: #0D0618;
+    --color-STints-50: #FBF9FF;
+    --color-STints-100: #F9F5FF;
+    --color-STints-150: #F2ECFE;
+    --color-STints-200: #CBB2FA;
+    --color-STints-250: #B28CF7;
+    --color-STints-300: #9865F5;
+    /* Neutral */
+    --color-Neutral: #E5EAE8;
+    --color-NShades-50: #CFD4D1;
+    --color-NShades-150: #B8BDBB;
+    --color-NShades-200: #A2A6A4;
+    --color-NShades-250: #8C8F8E;
+    --color-NShades-300: #767977;
+    --color-NShades-350: #606261;
+    --color-NShades-400: #4A4B4A;
+    --color-NShades-500: #333434;
+    --color-NShades-550: #1D1E1D;
+    --color-NTints-550: #FBFCFB;
+    --color-NTints-550: #F7F9F8;
+    --color-NTints-550: #EFF3F1;
+    --color-NTints-550: #EAEEEC;
+    /* Other */
+    --color-OAccept: #10C900;
+    --color-OAccept-50: #065000;
+    --color-OAccept-100: #9FE999;
+    --color-OError: #E90000;
+    --color-OError-50: #5D0000;
+    --color-OError-100: #FDE5E5;
+    --color-OWarning: #F6B500;
+    --color-OWarning-50: #7B5A00;
+    --color-OWarning-100: #FBE199;
+    --color-OInformation: #4890E5;
+    --color-OLink: #6532C1;
+
+    /* font */
+
+    --font-display:poppins
+}
